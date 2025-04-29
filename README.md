@@ -146,6 +146,14 @@ No obstante, su desempeño con gafas de sol (**sunglasses**) fue particularmente
 - `Recall:` 94.0809
 - `F1 Score:` 94.2026
 
+## 📦 Recursos
+
+El enlace contiene los modelos exportados en formatos `.pt`, `.tflite` y `.dat`, listos para ser integrados tanto en **entornos de escritorio (PC)** como en **dispositivos embebidos como Raspberry Pi**.
+
+Estos archivos permiten realizar inferencias eficientes adaptadas a diferentes plataformas y necesidades de despliegue.
+
+🔗 [Acceder a los recursos del proyecto](https://drive.google.com/drive/folders/1oddV3lHmSNXkaL1A63BR10oSssdr9HF9?usp=sharing)
+
 ## 📚 Referencias
 
 - Vaswani et al., "[Attention is All You Need](https://arxiv.org/abs/1706.03762)"
