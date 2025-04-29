@@ -146,7 +146,18 @@ No obstante, su desempeño con gafas de sol (**sunglasses**) fue particularmente
 - `Recall:` 94.0809
 - `F1 Score:` 94.2026
 
-![Demo](assets/somno_h.gif)
+<h2 style="text-align: center;">🎬 Demos del Proyecto</h2>
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="assets/somno_m.gif" alt="Editor de Landmarks" width="300"><br>
+    <strong>Sin somnolencia</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/somno_h.gif" alt="Detección de Somnolencia" width="300"><br>
+    <strong>Con somnolencia</strong>
+  </div>
+</div>
 
 ## 📦 Recursos
 
