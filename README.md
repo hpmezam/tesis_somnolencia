@@ -146,6 +146,8 @@ No obstante, su desempeño con gafas de sol (**sunglasses**) fue particularmente
 - `Recall:` 94.0809
 - `F1 Score:` 94.2026
 
+![Demo](assets/somno_h.gif)
+
 ## 📦 Recursos
 
 El enlace contiene los modelos exportados en formatos `.pt`, `.tflite` y `.dat`, listos para ser integrados tanto en **entornos de escritorio (PC)** como en **dispositivos embebidos como Raspberry Pi**.
