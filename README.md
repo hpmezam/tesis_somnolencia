@@ -148,15 +148,9 @@ No obstante, su desempeño con gafas de sol (**sunglasses**) fue particularmente
 
 <h2 style="text-align: center;">🎬 Demos del Proyecto</h2>
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="assets/somno_m.gif" alt="Editor de Landmarks" width="300"><br>
-    <strong>Sin somnolencia</strong>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/somno_h.gif" alt="Detección de Somnolencia" width="300"><br>
-    <strong>Con somnolencia</strong>
-  </div>
+<div class='contenedor' style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
+  <img src="assets/somno_m.gif" alt="Somnolencia Modelo M" width="300">
+  <img src="assets/somno_h.gif" alt="Somnolencia Modelo H" width="300">
 </div>
 
 ## 📦 Recursos
