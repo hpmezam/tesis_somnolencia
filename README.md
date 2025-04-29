@@ -146,8 +146,8 @@ El modelo [RTDETR](https://docs.ultralytics.com/models/rtdetr/) en su version `r
 
 ## 📚 Referencias
 
-- Vaswani et al., "Attention is All You Need"
-- Chen et al., "RT-DETR: Real-Time Detection Transformer"
+- Vaswani et al., "[Attention is All You Need](https://arxiv.org/abs/1706.03762)"
+- Zhao et al., "[DETRs Beat YOLOs on Real-time Object Detection](https://arxiv.org/abs/2304.08069)"
 
 ## ✨ Autor
 
