@@ -127,8 +127,6 @@ results = model.train(data = 'Datasets/balanced_eye_dataset/data.yaml', classes 
 | Glasses | 92.7173 | 94.5817 | 94.6250 | 94.6034 |
 | Sunglasses | 93.4208 | 94.3247 | 94.0809 | 94.2026 |
 
-En comparacion de otros modelos, es de destacar que tiene una buena generalizacion en cuanto a Bareface y glasses pero destaco en sunglasees ya que los otros modelos esos tiene bien bajo quizas debido a la interferencia entre la luna o por ser un mismo objeto
-
 </details>
 <details open>
 <summary>Dataset en condiciones de luz</summary>
